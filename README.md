@@ -1,1 +1,1 @@
-# demo gateway eCAL5 to ROS2
+# Template repository how to publish topics from eCAL to ROS2
